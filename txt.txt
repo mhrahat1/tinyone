@@ -1,0 +1,9 @@
+yellow: #fcdb00;
+black: #010101;
+white: #ffffff;
+-------------------------------
+font size:
+menu text:
+xxl  xl   lg     md    sm   xsm
+22   22   22     20    18   18px;
+-----------------------------------
